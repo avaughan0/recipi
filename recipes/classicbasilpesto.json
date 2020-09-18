@@ -1,0 +1,49 @@
+{
+  "recipe" : {
+    "name" : "Classic Basil Pesto",
+    "categories" : [
+      "sauce",
+      "pasta"
+    ],
+    "author" : "Nicole Barrett",
+    "summary" : "null",
+    "date" : "null",
+    "ingredients" : [
+      {
+        "ingredientName" : "fresh basil",
+        "quantity" : "2",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "garlic",
+        "quantity" : "4",
+        "quantityType" : "cloves"
+      },
+      {
+        "ingredientName" : "grated parmesan",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "pine nuts",
+        "quantity" : "0.25",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "salt",
+        "quantity" : "2",
+        "quantityType" : "shakes"
+      },
+      {
+        "ingredientName" : "olive oil",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "2",
+    "outputType" : "cups",
+    "preheatTemp" : "null",
+    "instructions" : "Mix all ingredients in a food processor."
+  }
+}

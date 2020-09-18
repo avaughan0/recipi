@@ -1,0 +1,74 @@
+{
+  "recipe" : {
+    "name" : "Korean Egg Bread (Gyerang Bbang)",
+    "categories" : [
+      "breakfast",
+      "bread"
+    ],
+    "author" : "My Korean Kitchen",
+    "summary" : "A popular Korean winter street food.  Variations: \n    Plain egg bread: Batter + Egg\n    Cheesy bacon egg bread: Batter + Egg + Cheese + Bacon + Parsley flakes\n    All in one egg bread: Batter + Egg + Cheese + Bacon + Parsley flakes + Tomato sauce + Mayonnaise (Our favourite choice but not necessarily the street style)",
+    "date" : "09/13/2017",
+    "ingredients" : [
+      {
+        "ingredientName" : "self-raising flour",
+        "quantity" : "0.66",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "castor sugar",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "ground salt",
+        "quantity" : "0.25",
+        "quantityType" : "teaspoon"
+      },
+      {
+        "ingredientName" : "egg",
+        "quantity" : "1",
+        "quantityType" : "large egg"
+      },
+      {
+        "ingredientName" : "milk",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "melted salted butter",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "vanilla essence",
+        "quantity" : "0.25",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "eggs",
+        "quantity" : "6",
+        "quantityType" : "small eggs"
+      },
+      {
+        "ingredientName" : "salt to sprinkle on top",
+        "quantity" : "1",
+        "quantityType" : "pinch"
+      },
+      {
+        "ingredientName" : "cheese (optional)",
+        "quantity" : "1",
+        "quantityType" : "slice"
+      },
+      {
+        "ingredientName" : "ham or bacon (optional)",
+        "quantity" : "1",
+        "quantityType" : "slice"
+      }
+    ],
+    "bakeTime" : "25 minutes",
+    "output" : "6 to 8",
+    "outputType" : "muffins",
+    "preheatTemp" : "350",
+    "instructions" : "1.Preheat oven to 180 degree C (350 degree  F) for 20 mins. 2.Brush some melted butter on the individual muffin holes of the tray. 3.Sift the flour, sugar and salt into a large bowl. 4.Mix 1 egg (for batter), milk, butter, vanilla essence in a small bowl and  whisk them well. 5.Combine 3 and 4 above in the large bowl and mix them well. (I used a hand mixer.) 6.Scoop out some batter (from step 5) onto the muffin tray. Fill 1/3 of the muffin hole first then add the egg on each muffin hole. (Optionally, you can add any of the optional ingredients listed above per your liking.) 7.Put the muffin tray in the oven and bake it for 25 mins. 8.After 25 mins, take the tray out and check whether it’s all cooked. (You can test this by sticking in a skewer or toothpick through the bread. If the skewer/toothpick is clean – no batter came out – then it is all cooked.) 9.Cool the tray down for 3-4 mins.10.Carefully take out the egg bread and enjoy!\n    You can use ramekins if you don’t have a muffin tray.\n    If you fill more than 1/3 of the muffin hole, the batter can overflow.\n    While the bread tastes best when it’s just came out of the oven, you can keep the leftover in a fridge (but preferably no more than 24 hours) and microwave it the next day. It’s not as good as freshly cooked bread , of course, but it’s still good. Keep the leftovers in a well sealed container."
+  }
+}

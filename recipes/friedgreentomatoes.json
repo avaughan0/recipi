@@ -1,0 +1,57 @@
+{
+  "recipe" : {
+    "name" : "Fried Green Tomatoes",
+    "categories" : [
+      "appetizer",
+      "vegetable"
+    ],
+    "author" : "Blog Chef",
+    "summary" : "Be sure to use tomatoes that are not too ripe.",
+    "date" : "08/19/2009",
+    "ingredients" : [
+      {
+        "ingredientName" : "large green tomatoes",
+        "quantity" : "4"
+      },
+      {
+        "ingredientName" : "eggs",
+        "quantity" : "2"
+      },
+      {
+        "ingredientName" : "milk",
+        "quantity" : "0.5",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "all purpose flour",
+        "quantity" : "1",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "cornmeal",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "breadcrumbs",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "kosher salt",
+        "quantity" : "2",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "ground black peper",
+        "quantity" : "0.25",
+        "quantityType" : "teaspoons"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "4",
+    "outputType" : "servings",
+    "preheatTemp" : "null",
+    "instructions" : "Step 1: Slice each tomato into about ½ inch thick slices. Discard the ends. In a medium bowl whisk eggs and milk until well combined. Pour flour onto a plate. On a pie plate or bowl combine bread crumbs, cornmeal, salt and pepper. Roll each tomato slice in flour, then dip in egg mixture and then dredge in cornmeal/breadcrumb mixture until evenly coated. Repeat until all slices are coated.\nStep 2: In a large skillet add oil, so that the oil is about ½” deep in the pan. Heat to medium-high heat. Add tomatoes to the pan (until the pan is full but tomatoes should not be touching each other). Fry until tomatoes are brown on the bottom, flip over and brown on the other side. Remove from the pan and drain on paper towels."
+  }
+}

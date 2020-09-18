@@ -1,0 +1,64 @@
+{
+  "recipe" : {
+    "name" : "Spinach Pesto",
+    "categories" : [
+      "sauce",
+      "pasta"
+    ],
+    "author" : "Nicole Barrett",
+    "summary" : "null",
+    "date" : "null",
+    "ingredients" : [
+      {
+        "ingredientName" : "shredded fresh spinach",
+        "quantity" : "4",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "lemon juice",
+        "quantity" : "0.25",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "parmesan",
+        "quantity" : "0.75",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "pine nuts or walnuts",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "vegetable oil",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "olive oil",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "chopped fresh parsley",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "chopped fresh basil",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "garlic",
+        "quantity" : "6",
+        "quantityType" : "cloves"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "5",
+    "outputType" : "cups",
+    "preheatTemp" : "null",
+    "instructions" : "Soak basil in olive oil 30 minutes.  Wash drain spinach, remove large stems.  Blend half the spinach with lemon juice and half the oil.  And remaining ingredients and blend until smooth."
+  }
+}

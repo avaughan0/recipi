@@ -1,0 +1,49 @@
+{
+  "recipe" : {
+    "name" : "Cilantro Pesto",
+    "categories" : [
+      "sauce",
+      "pasta"
+    ],
+    "author" : "Nicole Barrett",
+    "summary" : "",
+    "date" : "",
+    "ingredients" : [
+      {
+        "ingredientName" : "cilantro",
+        "quantity" : "1.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "garlic",
+        "quantity" : "2",
+        "quantityType" : "cloves"
+      },
+      {
+        "ingredientName" : "grated parmesan",
+        "quantity" : "0.25",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "pine nuts",
+        "quantity" : "3",
+        "quantityType" : "tablespoons"
+      },
+      {
+        "ingredientName" : "lime peel",
+        "quantity" : "1",
+        "quantityType" : "teaspoon"
+      },
+      {
+        "ingredientName" : "olive oil",
+        "quantity" : "5",
+        "quantityType" : "tablespoons"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "1.5",
+    "outputType" : "cups",
+    "preheatTemp" : "null",
+    "instructions" : "Mix all ingredients in a food processor."
+  }
+}

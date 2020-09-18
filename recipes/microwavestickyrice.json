@@ -1,0 +1,43 @@
+{
+  "recipe" : {
+    "name" : "Microwave Coconut Sticky Rice",
+    "categories" : [
+      "thai",
+      "dessert"
+    ],
+    "author" : "Alana Sterling",
+    "summary" : "null",
+    "date" : "12/26/2013",
+    "ingredients" : [
+      {
+        "ingredientName" : "Thai sticky rice",
+        "quantity" : "1.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "coconut milk",
+        "quantity" : "1",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "sugar",
+        "quantity" : "0.125",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "water",
+        "quantity" : "as needed"
+      },
+      {
+        "ingredientName" : "sea salt",
+        "quantity" : "0.75",
+        "quantityType" : "teaspoon"
+      }
+    ],
+    "bakeTime" : "12 minutes",
+    "output" : "1.5",
+    "outputType" : "cups",
+    "preheatTemp" : "null",
+    "instructions" : "Soak rice for 2-18 hours in water.  Drain water, and add water again until rice is just covered. Microwave for 12 minutes. Mix in coconut milk, sugar, and salt and let cool. Add fruit as desired."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "recipe" : {
+    "name" : "Garlic Butter Shrimp Pasta",
+    "categories" : [
+      "pasta",
+      "seafood"
+    ],
+    "author" : "Evil Shenanigans",
+    "summary" : "null",
+    "date" : "04/06/2009",
+    "ingredients" : [
+      {
+        "ingredientName" : "raw shrimp",
+        "quantity" : "1",
+        "quantityType" : "pound"
+      },
+      {
+        "ingredientName" : "garlic",
+        "quantity" : "3",
+        "quantityType" : "cloves"
+      },
+      {
+        "ingredientName" : "lemon zest",
+        "quantity" : "1",
+        "quantityType" : "tablespoon"
+      },
+      {
+        "ingredientName" : "grated parmesan",
+        "quantity" : "as needed"
+      },
+      {
+        "ingredientName" : "vegetable oil",
+        "quantity" : "1",
+        "quantityType" : "tablespoon"
+      },
+      {
+        "ingredientName" : "butter",
+        "quantity" : "3",
+        "quantityType" : "tablespoons"
+      },
+      {
+        "ingredientName" : "basil",
+        "quantity" : "1",
+        "quantityType" : "tablespoon"
+      },
+      {
+        "ingredientName" : "linguine",
+        "quantity" : "4",
+        "quantityType" : "ounces"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "null",
+    "outputType" : "null",
+    "preheatTemp" : "null",
+    "instructions" : "Place the shrimp in a bowl and add one teaspoon of garlic, the lemon zest, and the vegetable oil. Stir and let marinate while the pasta cooks.\n\nCook the pasta according to the package instructions, but cook for one minute less than instructed.\n\nDuring the last three minutes of the pasta cooking time heat the butter in  a large skillet until it foams.  Add the remaining garlic and saute until fragrant, about 30 seconds.  Add the shrimp with the marinade and cook for 30 seconds, or until the shrimp are just turning pink.  Add the basil and stir to combine.\n\nReserve 1/4 cup of the cooking liquid, then drain the pasta and add it directly to the pan – work quickly or your shrimp will over cook.  Stir to combine, allowing the shrimp and past to cook the rest of the way, about one minute more.  If the sauce does not coat the pasta completely add a bit of the cooking liquid to thin it out.\n\nTop with grated parmesan and a spritz of lemon juice.  Enjoy."
+  }
+}

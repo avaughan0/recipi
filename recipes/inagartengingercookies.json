@@ -1,0 +1,78 @@
+{
+  "recipe" : {
+    "name" : "Ultimate Ginger Cookies",
+    "categories" : [
+      "cookies",
+      "dessert"
+    ],
+    "author" : "Ina Garten",
+    "summary" : "You can double the amount of candied ginger if desired",
+    "date" : "09/10/2009",
+    "ingredients" : [
+      {
+        "ingredientName" : "flour",
+        "quantity" : "2.25",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "baking soda",
+        "quantity" : "1",
+        "quantityType" : "teaspoon"
+      },
+      {
+        "ingredientName" : "ground cinnamon",
+        "quantity" : "2",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "ground cloves",
+        "quantity" : "1.5",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "ground nutmeg",
+        "quantity" : "0.5",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "ground ginger",
+        "quantity" : "0.5",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "kosher salt",
+        "quantity" : "0.25",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "dark brown sugar",
+        "quantity" : "1",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "vegetable oil",
+        "quantity" : "0.25",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "unsulfured molasses",
+        "quantity" : "0.33",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "egg",
+        "quantity" : "1"
+      },
+      {
+        "ingredientName" : "chopped crystallized ginger",
+        "quantity" : "3",
+        "quantityType" : "ounces"
+      }
+    ],
+    "bakeTime" : "13",
+    "output" : "2",
+    "outputType" : "sheets",
+    "preheatTemp" : "350",
+    "instructions" : "Preheat the oven to 350 degrees, and line 2 baking sheets with parchment paper. Pour the crystallized ginger out on a plate and chop it up into small pieces. In a medium bowl, mix together the flour, baking soda, cinnamon, cloves, nutmeg, ginger, and salt. In a large bowl, beat the brown sugar, oil, and molasses for about 5 minutes. Then, beat in the egg. With the mixer on low, gradually add in the dry ingredients. Add in the crystallized ginger and then mix until combined.Roll the dough into 1 and 1/2 inch balls, and then flatten them lightly. Coat the cookies in granulated sugar.Place the cookies on the parchment paper.Bake for 13 minutes.Let cool on the pans for 2 minutes before removing to a wire rack to cool completely…if you can wait that long!"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "recipe" : {
+    "name" : "American Sandwich Bread",
+    "categories" : [
+      "bread"
+    ],
+    "author" : "Baking Illustrated",
+    "summary" : "null",
+    "date" : "07/28/2008",
+    "ingredients" : [
+      {
+        "ingredientName" : "all purpose flour",
+        "quantity" : "3.75",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "salt",
+        "quantity" : "2",
+        "quantityType" : "teaspoons"
+      },
+      {
+        "ingredientName" : "warm milk",
+        "quantity" : "1",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "warm water",
+        "quantity" : "0.33",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "unsalted butter, melted",
+        "quantity" : "2",
+        "quantityType" : "tablespoons"
+      },
+      {
+        "ingredientName" : "honey",
+        "quantity" : "3",
+        "quantityType" : "tablespoons"
+      },
+      {
+        "ingredientName" : "instant yeast",
+        "quantity" : "1",
+        "quantityType" : "package"
+      }
+    ],
+    "bakeTime" : "70 minutes",
+    "output" : "1",
+    "outputType" : "loaf",
+    "preheatTemp" : "350",
+    "instructions" : "Mix 3½ cups of the flour and the salt in the bowl of a standing mixer fitted with the dough hook. Mix the milk, water, butter, honey, and yeast in a 4-cup liquid measuring cup. Turn the machine to low and slowly add the liquid. When the dough comes together, increase the speed to medium and mix until the dough is smooth and satiny, stopping the machine two or three times to scrape dough from hook, if necessary, about 10 minutes. (After 5 minutes of kneading, if the dough is still sticking to the sides of the bowl, add flour, 1 tablespoon at a time and up to ¼ cup total, until the dough is no longer sticky.) Turn the dough onto a lightly floured work surface; knead to form as mooth, round ball, about 15 seconds.\n\nPlace the dough in a very lightly oiled large bowl, rubbing the dough around the bowl to coat lightly. Coverthe bowl with plastic wrap and place in the warmed oven until the dough doubles in size, 40 to 50 minutes.\n\nGently press the dough into a rectangle 1 inch thick and no longer than 9 inches. WIth a long side facing you, roll the dough firmly into a cylinder, pressing with your fingers to make sure the dough sticks to itself. Turn the dough seam-side up and pinch it closed. Place the dough seam-side down in a greased 9 by 5-inch loaf pan and press it gently so it touches all four sides of the pan. Cover with plastic wrap; set aside in a warm spot until the dough almost doubles in size, 20 to 30 minutes.\n\nKeep one oven rack at the lowest position and place the other at the middle position and heat the oven to 350 degrees. Place an empty baking pan on the bottom rack. Bring 2 cups of water to a boil in a small saucepan. Pour the boiling water into the empty pan on the bottom rack at set the loaf onto the middle rack. Bake until an instant-read thermometer inserted at an angle from the short end just above the pan rim into the center of the loaf read 195 degrees, 40 to 50 minutes. Remove the bread from the pan, transfer to a wire rack, and cool to room temperature. Slice and serve."
+  }
+}

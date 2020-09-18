@@ -1,0 +1,58 @@
+{
+  "recipe" : {
+    "name" : "French Goat Cheese Alfredo",
+    "categories" : [
+      "pasta"
+    ],
+    "author" : "Goat Cheeses of France",
+    "summary" : "You can use semi-riped goat cheese instead.",
+    "date" : "null",
+    "ingredients" : [
+      {
+        "ingredientName" : "pasta",
+        "quantity" : "8",
+        "quantityType" : "ounces"
+      },
+      {
+        "ingredientName" : "butter",
+        "quantity" : "2",
+        "quantityType" : "tablespoons"
+      },
+      {
+        "ingredientName" : "garlic",
+        "quantity" : "1",
+        "quantityType" : "cloves"
+      },
+      {
+        "ingredientName" : "cream",
+        "quantity" : "0.5",
+        "quantityType" : "cups"
+      },
+      {
+        "ingredientName" : "fresh French goat cheese",
+        "quantity" : "4",
+        "quantityType" : "ounces"
+      },
+      {
+        "ingredientName" : "grated parmesan",
+        "quantity" : "0.25",
+        "quantityType" : "cup"
+      },
+      {
+        "ingredientName" : "salt and pepper",
+        "quantity" : "null",
+        "quantityType" : "to taste"
+      },
+      {
+        "ingredientName" : "fresh basil",
+        "quantity" : "null",
+        "quantityType" : "null"
+      }
+    ],
+    "bakeTime" : "null",
+    "output" : "4",
+    "outputType" : "servings",
+    "preheatTemp" : "null",
+    "instructions" : "1. Cook pasta as directed.\n\n2. Melt the butter in a pan over medium heat, add garlic and gently cook for about a minute.\n\n3. Add the cream, then the goat cheese and parmesan. Stir until the cheese has melted into a sauce.\n\n4. Remove from heat, season with salt and pepper, toss pasta into the pan to coat. Divide among 4 bowls; garnish with snipped fresh basil. Makes 4 servings."
+  }
+}
